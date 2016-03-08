@@ -1,0 +1,6 @@
+{
+	"Signal Peptide": (1,21),
+	"Extracellular": (21, 1447),
+	"Transmembrane": (1448,1468),
+	"Intracellular": (1469,2003)
+}
